@@ -1,0 +1,78 @@
+
+1. Inline (Event)
+2. Internal
+3. Externel
+
+
+===========Internal==========
+
+<script>
+
+</script>
+
+
+
+
+=============Variable================
+
+
+
+x = 200;
+y = 210;
+
+
+
+Rahim has 200tk and Karim has 300tk
+
+rahim = 200;
+karim = 300;
+
+Types of declaring Variable......
+
+General Method...
+
+x = 20;
+rahim = 34;
+
+using var....
+
+var x = 20;
+var y = 30;
+
+using let...
+
+let x = 20;
+let y = 30;
+
+using const...
+
+const x = 20;
+const y = 30;
+
+Rahim has 200tk and Karim has 300tk. Find the amount of total money?
+
+
+ES5=>var
+ES6=>let
+
+=====Rules of writing Variable==========
+
+Any Alphabets (a, b, z, A, B)
+Any Words (sdusdh, apple, rahim, total_Price, grandTotal, number1)
+
+===========Operator==========
+
+1. Arithmatic Operator (+, -, *, /)
+
+Rahim has 1000tk. He went to market and purchased 5 eggs, 2 kitkat chocolate. 
+Price of each eggs 11tk, price of each chocolates 40tk. Find the remaining money.
+
+totalMoney = 1000tk
+eggs = 5pcs
+chocolate = 2pcs
+eachEggs = 11tk
+eachChocolate = 40tk
+
+remaining = ?
+
+Remainig Money = 865;
